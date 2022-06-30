@@ -1,0 +1,16 @@
+.header2{
+    background-color: black;
+}
+
+.imagesOne{
+    background-image: url("https://www.paho.org/sites/default/files/styles/max_1500x1500/public/2020-09/pregnant-mother-illustration-1500x984.jpg?itok=HQeU0ZHL");
+    
+}
+
+.center{
+    text-align: center;
+}
+
+.imagenFondo{
+    background-image: url("https://labuenanutricion.com/wp-content/uploads/2020/07/Eres-mama-de-un-menor-de-5-anos-sigue-estos-consejos.jpg");
+}
